@@ -1,8 +1,7 @@
 import { useTranslation } from "react-i18next";
 import Aripoart from "../Component/Gallery/Aripoart";
-
-import General from "../Component/Gallery/General";
 import OperImage from "../Component/Gallery/OperImage";
+import General from "../Component/Gallery/General";
 
 const Gallery = () => {
   const { t } = useTranslation();

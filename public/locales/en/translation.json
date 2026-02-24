@@ -1,0 +1,222 @@
+{
+  "logo": {
+    "p1": "United Movement ",
+    "p2": "Company Ltd"
+  },
+
+  "navlinks": {
+    "home": "Home",
+    "Services": "Services",
+    "wNew": "What's New",
+    "gallery": "Gallery",
+    "contactUs": "Contact Us"
+  },
+  "hero": {
+    "header": [
+      "We Drive Operations… ",
+      "and Make a Difference in Airport Services"
+    ],
+    "body": "We provide comprehensive ground handling and passenger services across several airports in Saudi Arabia, with specialized operational teams and world-class quality standards",
+    "CTA": "Learn About Our Services"
+  },
+  "About": {
+    "header": "About Us",
+    "body": {
+      "title": "We are a leading company in providing ground handling services for passengers at airports in Saudi Arabia and the Middle East",
+      "subtitle": "We offer comprehensive solutions including:",
+      "items": [
+        "Baggage management",
+        "Fast-track check-in and departure procedures",
+        "Passenger assistance and special needs support",
+        "Transportation and logistics coordination"
+      ],
+      "endBody": "With our extensive experience and specialized team, we ensure a smooth and comfortable travel experience for all clients."
+    }
+  },
+  "aboutHero": {
+    "header": "public services",
+    "subtitle": [
+      "Driving Success…",
+      "Building Partnerships That Make a Difference"
+    ],
+    "body": "Since its founding, United Mobility Company has adopted a professional approach focused on attracting top talent, fostering a collaborative work environment, maintaining transparency, and conducting thorough feasibility studies to ensure high-value services, earning the trust of our partners in the aviation sector."
+  },
+  "Operations": {
+    "header": "Hajj & Umrah Operations",
+    "Haj": {
+      "title": "1- Hajj Operations :",
+      "p": "We deliver a fully integrated operational system designed to ensure a seamless and comfortable pilgrimage experience from the moment pilgrims arrive until their final departure. Our teams operate with precise plans that enhance efficiency and maintain smooth movement even during peak seasons. Our services include:",
+      "body": [
+        "High-efficiency baggage management",
+        "Group coordination and operational scheduling",
+        "Smart integration with transportation and bus services",
+        "Flexible operations that ensure uninterrupted service at the required standards"
+      ]
+    },
+    "Umrah": {
+      "title": "2- Umrah Operations",
+      "body": "We manage the Umrah journey year-round through a professional operational framework that begins at airport arrival and continues all the way to Makkah. We provide porter services, streamlined travel procedures, and comprehensive operational support to ensure smooth movement and a reliable, comfortable experience for all visitors to the Holy Mosqu"
+    }
+  },
+  "WhyChooesUs": {
+    "header": "Why Choose Us ?",
+    "titleKey1": "Expertise in major Saudi airports",
+    "titleKe2": "Trained and qualified staff",
+    "titleKey3": "Certified operational quality",
+    "titleKey4": "Partnerships with airlines",
+    "titleKey5": "Services tailored to needs"
+  },
+
+  "Quality": {
+    "header": "Quality policy",
+    "subtitle": "At United Mobility, we are committed to a strict quality methodology focused on:",
+    "body": [
+      "Performing tasks with the highest accuracy",
+      "Delivering the best according to client standards",
+      "Continuous process improvement",
+      "Empowering teams to ensure fast and efficient performancen"
+    ]
+  },
+
+  "Airports": {
+    "header": "Airport Services",
+    "body": "UMC is a leading company in ground handling and airport services, delivering integrated operational solutions in accordance with the highest international standards through professional teams and advanced operational systems. We ensure high levels of quality in passenger services, baggage handling, cargo, and ground operations, and we take pride in the trust of airlines and aviation authorities.",
+    "subtitle": "We are proud to serve and operate at some of the Kingdom’s most prominent airports, including:",
+    "itemsAirPorts": {
+      "airportName1": "King Abdulaziz International Airport",
+      "airportName2": "Taibah Airports and King Fahd International Airport",
+      "airportName3": "King Khalid International Airport",
+      "airportName4": [
+        "In addition to our operational partnership with ",
+        "King Abdulaziz International Airport – Hajj Terminal in Jeddah"
+      ]
+    }
+  },
+  "PassengerSrv": {
+    "header": "Passenger Services",
+    "subtitle": "UMC provides integrated passenger handling solutions at airports, delivering professional services tailored to the needs of airlines and travelers. Our specialized teams operate at major airports across the Kingdom to ensure a seamless travel experience through fast procedures, outstanding customer service, and professional baggage handling, ensuring the highest standards of efficiency and comfort in line with global quality standards.",
+    "CTA": "Discover more",
+    "title": "Exceptional Passenger Experience Starts Here :-",
+
+    "arrayOfSrv": {
+      "title": "Our Passenger Services Include",
+      "bodyOfArray": {
+        "item1": "Passenger reception and assistance",
+        "item2": "Aircraft arrivals handling",
+        "item3": "Proactive management of passenger inquiries",
+        "item4": "Full departure and arrival gate operations",
+        "item5": "Check-in, boarding pass issuance, and flight connections",
+        "item6": "Transfers between terminals and aircraft"
+      }
+    },
+    "endBody": "We provide fully customizable passenger handling solutions tailored to each airline's needs. Additional staff can be recruited and trained as required, and coordination meetings with airline partners ensure that our teams accurately represent the airline’s brand and culture."
+  },
+  "SrvGroup": {
+    "header": "Public services",
+    "MainRespons": {
+      "title": "Main Responsibilities",
+      "body": "Our team is dedicated to assisting passengers throughout the airport by providing clear guidance and directing them efficiently to check-in counters, boarding gates, and various facilities—ensuring a smooth and effortless travel experience."
+    },
+    "PorterSrv": {
+      "title": "Our Services",
+      "body": "Our airport porter service provides passengers with seamless assistance in handling their luggage, ensuring a more comfortable and stress-free travel experience. This service is especially beneficial for families, elderly passengers, and travelers with mobility challenges, delivered with the highest level of professionalism and care."
+    },
+    "AirportTraffic": {
+      "title": "Airport Traffic and Parking Management",
+      "body": "We provide comprehensive traffic and parking management solutions across airport facilities, ensuring smooth access, efficient vehicle flow, and a congestion-free experience for passengers and visitors. Our services include full supervision of the parking areas at the Hajj Terminal at King Abdulaziz International Airport in Jeddah, where our trained teams manage parking operations in compliance with official regulations, optimize space usage, and handle unauthorized or incorrectly parked vehicles using professional equipment to maintain seamless operations."
+    },
+    "wrapping": {
+      "title": "wrapping service",
+      "body": "We provide luggage wrapping services at airports to ensure travelers' bags are protected with the highest safety standards. We use specialized wrapping materials that safeguard luggage from damage or wear throughout all travel stages, with the option of partial or full wrapping based on the passenger’s needs."
+    },
+    "PRM": {
+      "title": "PRM – Special Assistance Services",
+      "body": "We provide dedicated support services for passengers with reduced mobility or those requiring special assistance during their journey. Our service includes full assistance throughout the airport—offering wheelchairs, helping with check-in and security procedures, and accompanying passengers all the way to the boarding gate. Our mission is to ensure a smooth, comfortable, and safe travel experience for all passengers with special needs, delivering personalized care that enhances comfort, dignity, and peace of mind."
+    }
+  },
+  "BaggageSrv": {
+    "title": "Baggage Handling Services",
+    "info": "We deliver fully integrated and highly efficient baggage handling solutions designed to enhance accuracy, operational flow, and minimize irregularities. Our advanced systems and strict procedures ensure that every piece of baggage is handled with the highest standards of safety and timeliness.",
+    "body": {
+      "subtitle": "Key Service Features:",
+      "arrayPfBody": {
+        "item1": {
+          "head": "Accurate Weight & Balance Verification: ",
+          "info": "Our trained teams ensure full compliance with weight limits and safety regulations using precise calculations and international standards."
+        },
+        "item2": {
+          "head": "Dedicated Baggage Service Managers: ",
+          "info": "Assigning specialized personnel enhances accountability, operational efficiency, and overall service quality."
+        },
+        "item3": {
+          "head": "Rapid Discrepancy Resolution: ",
+          "info": "We implement a fast-track process for reporting and resolving any handling issues to maintain smooth operations."
+        },
+        "item4": {
+          "head": "Continuous Training & Clear Communication: ",
+          "info": "We provide comprehensive staff training and ensure seamless communication between teams to deliver safe and precise baggage handling."
+        }
+      },
+      "endBody": "With this optimized approach, we help airports and airlines achieve faster, smoother, and more reliable baggage operations."
+    }
+  },
+  "Arheb": {
+    "title": ["Meet & Greet Service", "( Arheb )"],
+    "subtitle": "A Luxurious and Seamless Travel Experience with “Arheb”",
+    "info": "We provide a comprehensive service that ensures your comfort from the moment you arrive at the airport, with a focus on efficiency and excellence in every detail. A Complete Travel Solution",
+    "body": {
+      "title": "We take care of everything you need:",
+      "bodyOfArray": [
+        "Secure luggage handling",
+        "Private car rentals",
+        "Hotel transfers (to/from)",
+        "Fast-track passport control",
+        "Paperwork and administrative processing"
+      ]
+    }
+  },
+  "aboutArheb": {
+    "header": "All in one package",
+    "item1": {
+      "title": "Time-Saving Efficiency",
+      "info": "Avoid long airport waits with our fast-track services for procedures and baggage handling, allowing you to focus on your journey stress-free"
+    },
+    "item2": {
+      "title": "Guaranteed Safety and Reliability",
+      "info": "Our professional team ensures your luggage is handled with care and you reach your destination without delay"
+    },
+    "item3": {
+      "title": "Tailored Options for Every Client",
+      "info": "Choose from a variety of luxury or economy vehicles, with or without a driver, to suit your personal preferences"
+    },
+    "item4": {
+      "title": "Hassle-Free Paperwork",
+      "info": "We assist you in completing all official paperwork and administrative procedures quickly and accurately, saving you time and effort"
+    },
+    "item5": {
+      "title": "Premium Hospitality at its Best",
+      "info": "Enjoy a warm welcome and professional service from our multilingual team, reflecting the highest standards of quality and attention to detail"
+    }
+  },
+
+  "contactUs": {
+    "header": "Contact Us",
+    "socialMedia": "Social Media",
+    "forms": {
+      "title": "Contact Us",
+      "name": "Your Name",
+      "palsholderName": "Enter Your Name",
+      "email": "Your Email",
+      "palsholderEmail": "Enter Your Email",
+      "message": "Message",
+      "palsholderMessage": "Enter Your Message",
+      "CTA": "Submit"
+    }
+  },
+  "gallery": {
+    "header": "Gallery",
+    "Airport": "Airport services",
+    "Operational": "Operational images",
+    "General": "General photos"
+  }
+}

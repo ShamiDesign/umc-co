@@ -1,6 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { assets } from "../assets";
+import { Link } from "react-router-dom";
 const ContactUs = () => {
   const { t } = useTranslation();
   const [result, setResult] = React.useState("");
@@ -45,22 +46,22 @@ const ContactUs = () => {
             {t("contactUs.socialMedia")}
           </h3>
           <dev className="flex  gap-6">
-            <a
+            <Link
               className="cursor-pointer hover:bg-gray-200 hover:shadow  rounded-full p-3 transition duration-300"
-              href="https://x.com/companymovement"
+              to="https://x.com/companymovement"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img src={assets.xx} alt="" className="w-[20px] " />
-            </a>
-            <a
+            </Link>
+            <Link
               className="cursor-pointer hover:bg-gray-200 hover:shadow  rounded-full p-3 transition duration-300"
-              href="https://www.instagram.com/"
+              to="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img src={assets.insta} alt="" className="w-[20px] " />
-            </a>
+            </Link>
           </dev>
         </dev>
 

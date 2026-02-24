@@ -118,7 +118,7 @@ const Navbar = () => {
                         isScrolled ? "text-white" : "text-[var(--main-color)]"
                       }`}
                   >
-                    <Link href={item.pathKey}> {t(item.nameKey)} </Link>
+                    <Link to={item.pathKey}> {t(item.nameKey)} </Link>
                     <span
                       className={`absolute -bottom-1/2 left-0 w-full h-[1px] transform scale-x-0 group-hover:scale-x-100 group-hover:origin-bottom-left origin-right transition duration-300 ${
                         isScrolled ? "bg-gray-100" : " bg-[var(--main-color)]"

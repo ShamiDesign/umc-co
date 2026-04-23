@@ -36,7 +36,7 @@ const ContactUs = () => {
           <div className="flex flex-col items-center">
             <img src={assets.Logo} alt="" className="w-[160px]" />
             <h1 className="text-[26px] md:text-[32px] font-semibold text-[var(--main-color)]">
-              {t("logo.p1")}{" "}
+              {t("logo.p1")}
             </h1>
             <h1 className="text-[26px] md:text-[32px] font-semibold text-[var(--main-color)]">
               {t("logo.p2")}

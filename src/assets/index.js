@@ -40,6 +40,8 @@ import gImage4 from "./image/G1/image4.png";
 import gImage5 from "./image/G1/image5.png";
 import xx from "./image/x.png";
 import insta from "./image/insta.png";
+import wLogoInsta from "./image/w-logo-insta.png"
+import wLogoX from "./image/w-logo-X.png"
 import oImage1 from "./image/G2/buoewp.png";
 import oImage2 from "./image/G2/bvnrthi.png";
 import oImage3 from "./image/G2/vfioefhio.png";
@@ -50,6 +52,7 @@ import AImage2 from "./image/G2/dfghoiuy00.png";
 import AImage3 from "./image/G2/gtfdg.png";
 import AImage4 from "./image/G2/hjjhgdghh00.png";
 import AImage5 from "./image/G2/Taghlef000.jpg";
+
 
 import {
   FaPlane,
@@ -71,6 +74,8 @@ export const assets = {
   arheb,
   xx,
   insta,
+  wLogoInsta,
+  wLogoX
 };
 
 export const srvimage = [srvimage1, srvimage2, srvimage5];

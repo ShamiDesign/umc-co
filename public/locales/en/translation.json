@@ -83,12 +83,12 @@
     "body": "UMC is a leading company in ground handling and airport services, delivering integrated operational solutions in accordance with the highest international standards through professional teams and advanced operational systems. We ensure high levels of quality in passenger services, baggage handling, cargo, and ground operations, and we take pride in the trust of airlines and aviation authorities.",
     "subtitle": "We are proud to serve and operate at some of the Kingdom’s most prominent airports, including:",
     "itemsAirPorts": {
-      "airportName1": "King Abdulaziz International Airport",
-      "airportName2": "Taibah Airports and King Fahd International Airport",
-      "airportName3": "King Khalid International Airport",
+      "airportName1": "King Khalid International Airport in Riyadh",
+      "airportName2": "Prince Mohammed bin Abdulaziz International Airport in Medina",
+      "airportName3": "King Fahd International Airport in Dammam",
       "airportName4": [
         "In addition to our operational partnership with ",
-        "King Abdulaziz International Airport – Hajj Terminal in Jeddah"
+        "King Abdulaziz International Airport"
       ]
     }
   },
@@ -218,5 +218,9 @@
     "Airport": "Airport services",
     "Operational": "Operational images",
     "General": "General photos"
+  },
+  "footer":{
+    "contactTitle":"Contact Us",
+    "contactNum":966557267666
   }
 }

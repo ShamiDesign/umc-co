@@ -6,7 +6,7 @@ import General from "../Component/Gallery/General";
 const Gallery = () => {
   const { t } = useTranslation();
   return (
-    <section className="my-6 md:my-10 mx-4 md:mx-10 ">
+    <section id="Gallery" className="my-6 md:my-10 mx-4 md:mx-10 ">
       <h1 className="text-[26px] md:text-[40px] text-center text-[var(--main-color)] font-semibold tracking-wider">
         {t("gallery.header")}
       </h1>

@@ -5,7 +5,7 @@ import AboutArheb from '../Component/Arheb/AboutArheb'
 const NewS = () => {
   return (
     <>
-    <section className="mt-10 px-4 md:px-20 ">
+    <section id='Arheb' className="mt-10 px-4 md:px-20 ">
      
       <Arheb />
     </section>

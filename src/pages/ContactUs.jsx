@@ -31,7 +31,7 @@ const ContactUs = () => {
 
   return (
     <>
-      <div className="body flex flex-col-reverse md:flex-row justify-between md:items-start items-center  my-10 md:my-20 mx-4 md:mx-10">
+      <section id="ContactUs" className="body flex flex-col-reverse md:flex-row justify-between md:items-start items-center  my-10 md:my-20 mx-4 md:mx-10">
         <dev className=" flex flex-col gap-4 items-center w-full mx-10">
           <div className="flex flex-col items-center">
             <img src={assets.Logo} alt="" className="w-[160px]" />
@@ -125,7 +125,7 @@ const ContactUs = () => {
             {result}
           </span>
         </div>
-      </div>
+      </section>
     </>
   );
 };

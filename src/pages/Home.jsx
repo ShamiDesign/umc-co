@@ -11,7 +11,7 @@ import Quality from '../Component/Home/Quality'
 const Home = () => {
   return (
    <>
-   <section>
+   <section id='Home'>
    <Landing />
    <About />
    <AboutHero />

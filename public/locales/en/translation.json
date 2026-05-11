@@ -22,7 +22,8 @@
   "About": {
     "header": "About Us",
     "body": {
-      "title": "We are a leading company in providing ground handling services for passengers at airports in Saudi Arabia and the Middle East",
+      "des1": "We are a leading company in providing ground handling services for travelers at airports across the Kingdom of Saudi Arabia and the Middle East. We offer comprehensive solutions that include baggage management, expedited arrival and departure procedures, transportation coordination, and full logistical support to ensure a smooth and comfortable travel experience.",
+      "des2": "With our extensive expertise and specialized team, we are committed to delivering the highest standards of quality and service, meeting the needs of our clients and ensuring their complete satisfaction. ",
       "subtitle": "We offer comprehensive solutions including:",
       "items": [
         "Baggage management",
@@ -219,8 +220,8 @@
     "Operational": "Operational images",
     "General": "General photos"
   },
-  "footer":{
-    "contactTitle":"Contact Us",
-    "contactNum":966557267666
+  "footer": {
+    "contactTitle": "Contact Us",
+    "contactNum": 966557267666
   }
 }

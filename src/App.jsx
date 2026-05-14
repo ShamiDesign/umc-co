@@ -7,8 +7,8 @@ import Navbar from "./Component/Navbar";
 import Home from "./pages/Home";
 import Services from "./pages/Services";
 import NewS from "./pages/NewS";
-import ContactUs from "./pages/ContactUs";
 import Gallery from "./pages/Gallery";
+import ContactUs from "./pages/ContactUs";
 import Footer from "./Component/Footer";
 const App = () => {
   const { i18n } = useTranslation();
@@ -17,9 +17,6 @@ const App = () => {
     i18next.changeLanguage(savedLanguage);
     document.dir = savedLanguage === "ar" ? "rtl" : "ltr";
   }, []);
-  const toggleLang = () => {
-    i18n.changeLanguage(i18n.language === "ar" ? "en" : "ar");
-  };
   return (
     <>
       <Navbar />

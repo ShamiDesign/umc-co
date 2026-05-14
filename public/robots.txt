@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://co.umcgc.com/sitemap.xml
+
+Disallow: /admin/
+Disallow: /api/

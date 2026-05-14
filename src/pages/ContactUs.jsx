@@ -71,13 +71,13 @@ const ContactUs = () => {
         <div className="form flex flex-col w-full">
           <form
             onSubmit={onSubmit}
-            className=" flex flex-col items-center bg-gray-50 w-full md:w-[550px] gap-4 border border-gray-500 px-5 py-2 md:py-8 rounded-xl"
+            className=" flex flex-col items-center bg-gray-50 w-full md:w-[550px] gap-4 border border-gray-300 px-5 py-2 md:py-8 rounded-xl"
           >
             <h3 className="text-[18px] md:text-[22px] font-semibold">
               {t("contactUs.header")}
             </h3>
             <div className="flex flex-col md:flex-row justify-between items-center w-full space-y-3 ">
-              <div className="flex flex-col md:flex-row  w-full justify-between">
+              <div className="flex flex-col md:flex-row  w-full justify-between gap-4">
                 <div className="flex flex-col space-y-[2px] w-full  mx-1">
                   <label className="text-[14px] md:text-[16px] text-[var(--sec-color)] font-semibold">
                     {t("contactUs.forms.name")}
@@ -87,7 +87,7 @@ const ContactUs = () => {
                     name="name"
                     placeholder={t("contactUs.forms.palsholderName")}
                     required
-                    className="text-gray-900 border border-gray-400 shadow rounded ps-1.5 py-1 w-full outline-hidden placeholder:text-sm"
+                    className="text-gray-900 border border-gray-200 shadow rounded ps-1.5 py-1 w-full outline-hidden placeholder:text-sm"
                   />
                 </div>
                 <div className="flex flex-col space-y-[2px]  w-full  mx-1">
@@ -99,7 +99,7 @@ const ContactUs = () => {
                     name="email"
                     placeholder={t("contactUs.forms.palsholderEmail")}
                     required
-                    className="text-gray-900 border border-gray-400 shadow rounded ps-1.5 py-1 w-full outline-hidden placeholder:text-sm"
+                    className="text-gray-900 border border-gray-200 shadow rounded ps-1.5 py-1 w-full outline-hidden placeholder:text-sm"
                   />
                 </div>
               </div>
@@ -113,7 +113,7 @@ const ContactUs = () => {
                 required
                 rows={8}
                 placeholder={t("contactUs.forms.palsholderMessage")}
-                className="text-gray-900 border border-gray-400 shadow rounded ps-1.5 py-1 outline-hidden w-full placeholder:text-sm"
+                className="text-gray-900 border border-gray-200 shadow rounded ps-1.5 py-1 outline-hidden w-full placeholder:text-sm"
               ></textarea>
             </div>
 
